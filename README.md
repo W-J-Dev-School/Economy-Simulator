@@ -1,8 +1,8 @@
 # Economy Simulator
 
-An small economy simulator written for the [W&J Dev School](https://wjdevschool.com) project based on perfect competition markets and a video game Victoria 2.
+An small economy simulator based on perfect competition and a video game Victoria 2.
 
-The thought process, mechanisms and theories are explained in the attached [article](https://wjdevschool.com/blog/economy-simulator).
+The thought process, mechanisms and theories are explained in [this article](https://wjdevschool.com/blog/economy-simulator).
 
 Output snippet:
 
