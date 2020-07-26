@@ -1,6 +1,6 @@
 # Economy Simulator
 
-An small economy simulator based on perfect competition and a video game Victoria 2.
+A small economy simulator based on perfect competition and inspired by Victoria 2.
 
 The thought process, mechanisms and theories are explained in [this article](https://wjdevschool.com/blog/economy-simulator).
 
