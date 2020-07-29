@@ -62,7 +62,7 @@ void destroy_factory(struct world *world, struct factory *factory)
     assert(world->factory_count > 1);
     *factory = world->factories[--world->factory_count];
 
-    // Money is inherited by a random factory
+    // Money is inherited by a random pop
 
     world->pops[rand() % world->pop_count].money += remaining_money;
 }
