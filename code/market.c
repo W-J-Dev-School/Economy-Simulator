@@ -28,7 +28,7 @@ void close_market(struct market *market)
     }
     else if(market->supply > market->demand)
     {
-        // Price should go up because supply is higher than demand
+        // Price should go down because supply is higher than demand
 
         if(market->price_velocity < 0)
         {
